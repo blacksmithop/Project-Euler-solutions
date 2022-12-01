@@ -1,5 +1,6 @@
 # Solutions to Project Euler Problems
 
+![](https://projecteuler.net/profile/InsertCheesyLine.png)
 ## Table of contents
 
 ---
